@@ -20,7 +20,7 @@ This project allows users to add and remove tasks easily.
 1. Clone this repository:
    https://github.com/Payal-Goswami/simple-todo-list.git
    
-3. Open `index.html` in your browser to view the app.
+2. Open `todoList.html` in your browser to view the app.
 
 ## Future Improvements
 - Task prioritization
