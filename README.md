@@ -14,7 +14,7 @@ This project allows users to add and remove tasks easily.
 - JavaScript
 
 ## Screenshot 
-![Todo List App Screenshot](Screenshot 2024-12-23 173733.png)
+![Todo List App Screenshot](simple-todo-list/Screenshot 2024-12-23 173733.png)
 
 ## How to Run
 1. Clone this repository:
